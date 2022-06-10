@@ -2,9 +2,9 @@
 ---
 #Contacts:
 ---
-Diskort:ViktoriaU (@ViktoriaUmetskaya)
-E-mail: vu1061994@gmail.com
-Tel: +375293136103
+* Diskort:ViktoriaU (@ViktoriaUmetskaya)
+* E-mail: vu1061994@gmail.com
+* Tel: +375293136103
 
 #About myself:
 ---
